@@ -1,0 +1,16 @@
+
+.alert-text {
+    background-color: black;
+    color: white;
+
+}
+
+.alert-text2 {
+    background-color: yellow;
+}
+
+.alert-text,
+.alert-text2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "Sans-sarif";
+}
